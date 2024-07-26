@@ -85,7 +85,12 @@ nav a:hover{
 main{
     background-color: white;
     max-width: 1000px;
+    min-width: 300px;
     margin: auto;
+}
+
+main img{
+    width: 100%;
 }
 
 main h1{
@@ -106,9 +111,6 @@ main p{
 
 main strong{
     color: var(--color4);
-
-
-
 }
 
 main h2{
@@ -144,12 +146,6 @@ main a:hover{
     margin: auto;
 
 }
-.imagem{
-    display: block;
-    text-align: center;
-    margin: auto;
-}
-
 aside{
     background-color: var(--color2);
     margin: 25px;
