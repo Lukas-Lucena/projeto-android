@@ -138,17 +138,22 @@ main a:hover{
     text-decoration: underline;
 }
 
-.imagem{
-    display: block;
-    text-align: center;
-
-}
-
 .pequena{
     display: block;
     max-width: 400px;
     margin: auto;
 
+}
+
+.irina{
+    display: block;
+    text-align: center;
+
+}
+
+.dandroids{
+    display: block;
+    text-align: center;
 }
 
 aside{
