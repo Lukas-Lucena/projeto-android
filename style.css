@@ -92,6 +92,9 @@ main{
 main img{
     width: 100%;
 }
+.img{
+    width: 100%;
+}
 
 main h1{
     font-family: var(--font-android);
